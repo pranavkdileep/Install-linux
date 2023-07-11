@@ -1,6 +1,6 @@
 
-# Install kali linux without root on android using these commands.
-
+# Install kali linux without root on android using these commands. based on my YouTube video. 
+   
 using this command you can easly Install kali linux on your android phone .
 
 #1  first Install termux
