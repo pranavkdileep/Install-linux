@@ -1,6 +1,21 @@
 
-# Install kali linux without root on android using these commands. based on my YouTube video. 
-   
+# Install kali linux without root on android using these commands. 
+
+
+           __              __ 
+          /  |            /  |
+  ______  $$ |   __   ____$$ |
+ /      \ $$ |  /  | /    $$ |
+/$$$$$$  |$$ |_/$$/ /$$$$$$$ |
+$$ |  $$ |$$   $$<  $$ |  $$ |
+$$ |__$$ |$$$$$$  \ $$ \__$$ |
+$$    $$/ $$ | $$  |$$    $$ |
+$$$$$$$/  $$/   $$/  $$$$$$$/ 
+$$ |                          
+$$ |                          
+$$/                           
+
+
 using this command you can easly Install kali linux on your android phone .
 
 #1  first Install termux
@@ -25,41 +40,25 @@ using this command you can easly Install kali linux on your android phone .
    pkg install wget
 ```
 ```bash
-   wget -O install-nethunter-termux https://offs.ec/2MceZWr
+   wget -O pkdnh https://raw.githubusercontent.com/pranavkdileep/Install-linux/main/pkdnh
 ```
 ### you can use both of bellow
 ```bash
-   chmod +x install-nethunter-termux
+   chmod +x pkdnh
 ```
 ```bash
-   ./install-nethunter-termux
-```
-
-### Also you can use this 
-
-```bash
-  bash install-nethunter-termux
+   ./pkdnh
 ```
 
 
-#### *here you can go throw nano, type 3 for it..
 
-```shell
-  nano => 3
-```
 
 #### here if you want to access of your storage in linux so follow..
 
 ```bash
   termux-setup-storage
 ```
-```bash
-   nano $PREFIX/bin/nh
-```
-##### write there bellow command
-```
-  -b /sdcard \
-```
+
 
 ### now start the nethunter server 
 ```
