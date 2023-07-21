@@ -1,19 +1,7 @@
 
 # Install kali linux without root on android using these commands. 
 
-
-           __              __ 
-          /  |            /  |
-  ______  $$ |   __   ____$$ |
- /      \ $$ |  /  | /    $$ |
-/$$$$$$  |$$ |_/$$/ /$$$$$$$ |
-$$ |  $$ |$$   $$<  $$ |  $$ |
-$$ |__$$ |$$$$$$  \ $$ \__$$ |
-$$    $$/ $$ | $$  |$$    $$ |
-$$$$$$$/  $$/   $$/  $$$$$$$/ 
-$$ |                          
-$$ |                          
-$$/                           
+🅿🅺🅳
 
 
 using this command you can easly Install kali linux on your android phone .
